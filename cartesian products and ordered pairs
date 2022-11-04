@@ -1,0 +1,54 @@
+                                # Cartesian products # 
+ An ordered pair (a,b) is a set 
+ {{a},{a,b}}
+ 
+ 
+ you've seen oredered pairs before as graph coordinates
+ (1,2)  {{1},{1,2}}      here {1,2} is subset is equivalent to each other but the first one is not .
+ (2,1)   {{2},{2,1}}     here {2,1} is subset is equivalent to each other but the first one is not .
+ (-2,0)                                  
+ 
+ 
+ 
+                                              -|-
+                                               |
+                                              -|-
+                                --------------------------------                                                .
+                                              -|-
+                                               |
+                                              -|-
+                                               |
+                                               
+           The cartesian product , A*B is the set 
+                      {(a,b) | a element of A & b element of B}
+                      
+                     Given X = {0,1,2} and Y = { 0,1}
+                     X * Y =  First element will come from X and the second element will come from Y .if it's Y*X  then we reverse it.
+                     so, X*Y  this is set it's set of ordered pairs so in my first ordered. 
+                     
+                      X * Y =  { (0,0),(0,1,(1,0),(1,1),(2,0),(2,1) }
+                     Y * X =    
+                     
+                     What is the cardinality of A*B?
+                     if |A|=m and |B| n then 
+                     | A * B |  = mn
+                     
+                     -------cartesian products can generalize to n-tuple
+                     3-tuple
+                      A*B*C = {(a,b,c) | a element of A , b element of B ,c element of C }
+                                         here a comes from A , b comes from B, c come from C
+                      
+                      n-tuple 
+                      A1*A2*......*A.n = { (a1,a2,a3,......a.n) | a1 element of A1,a2 element of A2,.........a.n element of A.n}
+                             here a1 comes from A1 , a2 comes from A2, a.n come from A.n
+                      
+                      
+                      excercise : 
+                      A ={1,3}
+                           (empty set) * A = empty
+                           |(empty)*A| = | (empty)|.|A| = 0*2= 0
+                           
+                           
+                     
+                      
+                      

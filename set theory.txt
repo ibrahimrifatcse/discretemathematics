@@ -1,0 +1,42 @@
+              # set theory #
+# A set is a collection of objects called elements. 
+
+    .........
+    .  2    .
+    . 3   1 . <-- it's visual set  . {1,2,3} <-- it's listed 
+    .........
+    
+    # set can be finite or infinite .
+    A = {1,3,4,5} & {1,2,3,4,5.......}
+    
+                                  ^-- this dot dot is implied pattern forever.
+                                  
+                                  # Additional point #
+     * Repeated elements are listed once {a,b,a,c,b,a} = {a,b,c}
+     * there si no order in a set {3,2,1} = {1,2,3} or {3,1,2} there are all same thing
+     
+                            # common sets #
+                            
+        natural number : N = { 0,1,2,3...............}
+        integers number : {0,-1,-2,4,63,................}
+        Rational number : {1/2,2/5,3/7..............} so of course rational number are fraction 
+        
+                          #  Elements and cardinality # 
+             Let C = {yellow,blue,red}
+             
+             "yellow is elemet of set C"  yellow ∈ C
+             "Green is not element of set C " Green ∉ C
+             
+              " the cardinality of C is 3 "  (cardinality = the number of elements in a set or other grouping , as a property of that grouping)
+              "the cardinality of C is 3);
+                     ^-- size
+                     
+                     
+                      # the empty set #
+                      
+          Ø = { }  => this is empty set
+          | Ø | = 0  => there nothing in it so the size of it is zero 
+          |{Ø}| = 1  => this set itself there's a big set has one element it has an empty as an element so sets can have sets as elements. 
+        
+     
+     

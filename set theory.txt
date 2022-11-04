@@ -37,6 +37,36 @@
           Ø = { }  => this is empty set
           | Ø | = 0  => there nothing in it so the size of it is zero 
           |{Ø}| = 1  => this set itself there's a big set has one element it has an empty as an element so sets can have sets as elements. 
-        
-     
-     
+          |{} | = 0
+
+                      # set builder Notation # 
+
+        * Q = { .. , 1/1,1/2,2/3,..............}
+                        ^---- better way to express the entire set? 
+
+               = { m/n | m,n ∈ of integers, n != ∉ }  , here '|' means such that
+
+
+               Even integers { 0,-4,8,}
+                better way express = {2n | n ∈  Z }  
+
+                Desk = { computer , laptop, mobile , book}
+                 better way express is = { x | x is on my desk }
+
+    excercise: 
+              List the elements of the D . D = { x ∈ positive integers | x <6}
+              = {1,2,3,4,5}
+
+            what is the cardinality of D . 
+            |D| = 5
+            what is the cardinality of {Ø,{a,b}}
+               ans is 2 
+            ......................
+            .                    .
+            .    .....   ......  .
+            .    . Ø .   .a,b .  .
+            .    .....   ......  .
+            .                    .
+            ......................
+             this visualization of {Ø,{a,b}}. here {Ø,{a,b}} is one box who contain two box  one is empty and 2nd is contain value . but here two box
+               
